@@ -1,3 +1,19 @@
 body{
- background-color: blue;
+ background-color: grey;
+}
+
+h1{
+ font-family: calisto MT;
+ color:purple;
+}
+
+p{
+ font-family: arial black;
+ color:skyblue;
+}
+
+img{
+ border-style: solid;
+ border-width: 20px;
+ width: 25%;
 }
